@@ -1,7 +1,7 @@
 # HR-Project
 Create a Python program to manage and analyze employee data. The  project will cover the following topics: Decision Making and Loops, Functions and Modules, Python Libraries, Data  Visualization with Python (Matplotlib, Seaborn, Plotly). 
 
-# Dataset:   
+## Dataset:   
 You are provided with an employees.csv file that contains the following columns: 
 EmployeeID: Unique identifier for each employee 
 Name: Name of the employee 
@@ -10,7 +10,7 @@ Department: Department where the employee works
 Salary: Salary of the employee 
 Experience: Age or Number of years the employee has been working. 
 
-# Employee Analysis Project
+## Employee Analysis Project
 
 This project analyzes employee data using Python and generates various visualizations.
 
